@@ -1,0 +1,2 @@
+- Hello, I’m Leonardo Somer
+- I'm currently in the process of learning JS
